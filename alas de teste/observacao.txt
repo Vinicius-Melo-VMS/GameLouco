@@ -1,0 +1,15 @@
+tipos de valriaves
+
+int
+float
+doble
+bool
+string
+struct
+*
+vector2
+vector3
+quartecion
+
+Tipos de referecia
+qualque objeto sw classes
